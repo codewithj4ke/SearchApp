@@ -22,6 +22,6 @@ The Basic Search App provides a simple interface for searching images and facts.
 
 ## Requirements / Dependencies
 
-- **Pillow==10.0.0**
-- **requests==2.31.0**
-- **tk==0.1.0**
+- Pillow==10.0.0
+- requests==2.31.0
+- tk==0.1.0
