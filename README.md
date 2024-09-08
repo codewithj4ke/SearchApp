@@ -19,3 +19,9 @@ The Basic Search App provides a simple interface for searching images and facts.
 - **Requests**: Library for making HTTP requests to APIs.
 - **Tkinter**: Python library for creating the graphical user interface (GUI).
 - **API Services**: Utilized for fetching images and facts.
+
+## Requirements / Dependencies
+
+- **Pillow==10.0.0**
+- **requests==2.31.0**
+- **tk==0.1.0**
