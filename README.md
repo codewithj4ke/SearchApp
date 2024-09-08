@@ -63,8 +63,6 @@ This is a simple search application built with Python using the Tkinter library.
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -77,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, please reach out to [Jake](mailto:your-email@example.com).
+For questions or feedback, please reach out to [Jake](mailto:thectzn@gmail.com).
