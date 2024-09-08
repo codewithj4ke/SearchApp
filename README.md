@@ -4,12 +4,6 @@
 
 This is a simple search application built with Python using the Tkinter library. It allows users to search for images and get summaries from Wikipedia. The application fetches images from Pexels and summaries from Wikipedia to display relevant information based on the user's input.
 
-## Overview
-
-- **Author**: Jake (codewithj4ke)
-- **Date**: September 2024
-- **Objective**: Learning Python programming with the assistance of AI and online courses.
-
 ## Features
 
 - Search for images using the Pexels API.
