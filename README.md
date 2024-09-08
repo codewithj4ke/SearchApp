@@ -18,19 +18,6 @@ This is a simple search application built with Python using the Tkinter library.
 - `PIL` (Pillow) - for image processing
 - `requests` - for making HTTP requests
 
-## Installation
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/codewithj4ke/basic-search-app.git
-    cd basic-search-app
-    ```
-
-2. **Install required packages**:
-    ```sh
-    pip install pillow requests
-    ```
-
 ## API Keys
 
 - Replace `PEXELS_API_KEY` with your own Pexels API key. You can obtain an API key by signing up at [Pexels](https://www.pexels.com/api/).
