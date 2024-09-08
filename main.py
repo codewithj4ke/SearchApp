@@ -1,5 +1,5 @@
 # Project: Basic Search App
-# Application developed by: Jake - September 2024
+# Application developed by: codewithj4ke - September 2024
 # Learning Python programming with the assistance of AI and online courses
 
 import tkinter as tk
