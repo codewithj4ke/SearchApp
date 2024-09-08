@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/code-written-by-chatgpt-ai-ftw.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/code-written-by-chatgpt-ai-ftw.svg)](https://forthebadge.com)
 
 # Basic Search App
 
