@@ -137,7 +137,7 @@ fact_link_label = ttk.Label(
 fact_link_label.grid(row=5, column=0, columnspan=2, pady=(0, 5), sticky="nsew")
 
 # Footer label
-ttk.Label(root, text="Application developed by: Jake - 2024", font=("Calibri", 8), foreground="#333333").pack(side="bottom", pady=(5, 10))
+ttk.Label(root, text="Application developed by: codewithj4ke - 2024", font=("Calibri", 8), foreground="#333333").pack(side="bottom", pady=(5, 10))
 
 # Grid configuration
 main_frame.grid_rowconfigure([0, 1, 2, 3, 4, 5], weight=1)
